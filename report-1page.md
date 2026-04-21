@@ -1,3 +1,5 @@
+Họ và tên: Phạm Danh Thái 
+Mã sinh viên: 1871020523
 # Report 1 Page – FIT4012 Lab 2
 
 ## 1. Mục tiêu
