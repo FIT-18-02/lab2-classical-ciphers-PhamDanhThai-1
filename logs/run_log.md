@@ -15,7 +15,6 @@
 - [x] Đã đọc dữ liệu từ `data/input.txt`
 
 ## Điều em học được từ bài lab
-
 - Em hiểu rõ hơn về nguyên lý hoạt động của mật mã thay thế (Caesar) và hoán vị (Rail Fence).
 - Việc triển khai ma trận ziczac giúp em rèn luyện tư duy lập trình với mảng hai chiều.
 - Em đã biết cách xử lý các trường hợp ngoại lệ như ký tự đặc biệt và khoảng trắng trong mật mã.
