@@ -1,5 +1,7 @@
 Họ và tên: Phạm Danh Thái 
+
 Mã sinh viên: 1871020523
+
 # Report 1 Page – FIT4012 Lab 2
 
 ## 1. Mục tiêu
@@ -11,7 +13,8 @@ Tìm hiểu và triển khai thuật toán mã hóa Caesar và Rail Fence, xử 
 - Tích hợp đọc file `data/input.txt`.
 
 ## 3. Kết quả chính
-### 3.1 Caesar Cipher 
+### 3.1 Caesar Cipher  
+
 
 | Input | Key | Ciphertext / Plaintext | Nhận xét |
 |---|---:|---|---|
