@@ -2,7 +2,6 @@
 #include <iostream>
 #include <string>
 
-
 using namespace std;
 
 bool is_valid_message(const string &text) {
@@ -32,6 +31,7 @@ string caesar_encrypt(const string &plaintext, int shift) {
         }
         // Q2: Nếu là chữ cái thì dịch chuyển theo khóa
         else {
+            
             ciphertext += shift_char(c, shift);
         }
     }
